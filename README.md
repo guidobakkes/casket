@@ -9,12 +9,12 @@ template design, you will be up and running in no time!
 
 ##Structure
 ```
-Casket/
+casket/
 ├── index.html
 ├── css/
 │   ├── casket.css
 │   ├── custom.css
-│   └── normalize.min.css
-└── images/
+│   └── normalize.css
+└── img/
     └── favicon.icon
 ```
