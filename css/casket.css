@@ -17,3 +17,8 @@ html {
   -moz-box-sizing: inherit;
   box-sizing: inherit;
   }
+
+/* to prevent a gap from showing below images in some browsers */
+img {
+  vertical-align: bottom;
+}
